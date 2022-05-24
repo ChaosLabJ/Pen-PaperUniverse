@@ -1,0 +1,64 @@
+body {
+    font-family: monospace;
+    font-weight: 500;
+    font-size: 16px;
+	text-align: left;
+    text-decoration: none;
+	background-color: #070D1E;
+	color: whitesmoke;
+}
+
+table  {
+    border-spacing:25px;
+    text-align:left;
+    align-self: right;
+    }	
+
+#nameField {
+    border-radius: 20px;
+    color: whitesmoke;
+    background-color: #070D1E;
+    font-size: 16px;
+    font-family: monospace;
+}
+
+#Preis {
+    border-color: whitesmoke;
+    color: #070D1E;
+}
+#Werbung {
+    border-color: whitesmoke;
+    font-size: 20px;
+    color:whitesmoke;
+}
+
+#subButton {
+    border-color: whitesmoke;
+    border-radius: 20px;
+}
+
+#VerkäuferdatenAusklappbar {
+    color:whitesmoke;
+    background-color: #070D1E;
+    border: 0px;
+}
+
+#VerkaufsdatenAusklappbar {
+    color:whitesmoke;
+    background-color: #070D1E;
+    border: 0px;
+}
+
+#Ueberschrift {
+    text-align: center;
+    align-items: center;
+}
+
+#PayPal {
+    align-self: center;
+}
+
+#Support {
+    font-size: 50px;
+    font-weight: 20;
+}
